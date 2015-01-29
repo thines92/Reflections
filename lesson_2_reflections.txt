@@ -2,3 +2,13 @@ What happens when you initialize a repository? Why do you need to do it>
 
 When you init a repo you create an area for your work to be saved and tracked. 
 You need to init a repo in order to track your work through git.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+The staging area is different from the working dir and the repo because it 
+allows you to setup the changes you want to commit before actually committing
+them. The value of this is you can make sure you want to actually commit these changes
+before you actually commit them.
+
+
