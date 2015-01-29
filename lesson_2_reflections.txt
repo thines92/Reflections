@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it>
+
+When you init a repo you create an area for your work to be saved and tracked. 
+You need to init a repo in order to track your work through git.
